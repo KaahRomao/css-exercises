@@ -1,1 +1,27 @@
 /* Add CSS Styling */
+
+* {
+  box-sizing: border-box;
+  margin: 8px;
+  padding: 0;
+}
+
+#azul {
+  color: blue;
+  font-size: 36px;
+}
+
+#verde {
+  background-color: #90ee90;
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.texto {
+  background-color: #f08080;
+  font-family: Verdana, "Dejavu sans", sans-serif;
+}
+
+.texto.bold {
+  font-size: 24px;
+}
