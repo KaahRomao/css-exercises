@@ -1,24 +1,7 @@
-* {
-  box-sizing: border-box;
-  margin: 5px;
-  padding: 0;
-}
-
 div {
-  background-color: red;
+  background-color: orange;
   color: white;
-  font-size: 40px;
+  font-size: 32px;
   font-weight: bold;
   text-align: center;
-}
-
-p {
-  background-color: green;
-  color: white;
-  font-size: 20px;
-}
-
-button {
-  background-color: yellow;
-  border: 2px solid gray;
 }

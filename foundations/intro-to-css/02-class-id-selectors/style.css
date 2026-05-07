@@ -1,11 +1,3 @@
-/* Add CSS Styling */
-
-* {
-  box-sizing: border-box;
-  margin: 8px;
-  padding: 0;
-}
-
 #azul {
   color: blue;
   font-size: 36px;
